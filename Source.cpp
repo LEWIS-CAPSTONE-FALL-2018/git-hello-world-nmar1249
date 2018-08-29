@@ -1,4 +1,6 @@
 //simple hello world program
+//
+//Name: Nick Marine
 
 #include <iostream>
 
